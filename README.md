@@ -21,6 +21,6 @@ O projeto foi desenvolvido com o framework **Bootstrap 5** e inclui as seguintes
 - CSS3  
 
 
-4. **Imagem de Referência:**  
-   - Utilize a imagem em anexo como referência para o layout.
+![Captura de Tela (567)](https://github.com/user-attachments/assets/19ddf509-621f-4021-82af-e8babde2ee34)
+
 
